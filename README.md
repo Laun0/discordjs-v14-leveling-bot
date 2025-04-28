@@ -181,7 +181,7 @@ Proyek ini dilisensikan di bawah Lisensi Publik Umum GPL-3.0 - lihat file [LICEN
 
 **Perintah `/rank`:**
 Menampilkan statistik lengkap pengguna beserta kartu visual.
-![Contoh Kartu Rank Pengguna](screenshots/rank.jpg "Output visual dan embed dari command /rank")
+![Contoh Kartu Rank Pengguna](screenshots/rank_card.jpg "Output visual dan embed dari command /rank")
 
 ---
 
