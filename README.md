@@ -176,3 +176,29 @@ Proyek ini dilisensikan di bawah Lisensi Publik Umum GPL-3.0 - lihat file [LICEN
 ## 👤 Author
 
 **Laun0**
+
+## 🖼️ Tampilan Fitur
+
+**Perintah `/rank`:**
+Menampilkan statistik lengkap pengguna beserta kartu visual.
+![Contoh Kartu Rank Pengguna](screenshots/rank.jpg "Output visual dan embed dari command /rank")
+
+---
+
+**Perintah `/leaderboard display:card`:**
+Menampilkan papan peringkat server dalam bentuk kartu gambar.
+![Contoh Leaderboard (Tampilan Kartu)](screenshots/leaderboard_canvas.jpg "Output visual command /leaderboard dengan display: card")
+
+---
+
+**Perintah `/leaderboard display:text`:**
+Menampilkan papan peringkat server dalam bentuk teks embed.
+![Contoh Leaderboard (Tampilan Teks)](screenshots/leaderboard_text.jpg "Output embed command /leaderboard dengan display: text")
+
+---
+
+**Notifikasi Level Up:**
+Pesan dan kartu yang muncul saat pengguna berhasil naik level. Gambar ini juga menampilkan **pesan tambahan** yang dikirim oleh `ExampleRewardPlugin` sebagai demonstrasi fungsionalitas plugin.
+![Contoh Notifikasi Level Up dengan Pesan Plugin](screenshots/level_up.jpg "Notifikasi level up standar ditambah pesan dari plugin contoh")
+
+---
