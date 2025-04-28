@@ -175,4 +175,4 @@ Proyek ini dilisensikan di bawah Lisensi Publik Umum GPL-3.0 - lihat file [LICEN
 
 ## 👤 Author
 
-**Laun0**# discordjs-v14-leveling-bot
+**Laun0**
